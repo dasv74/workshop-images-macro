@@ -1,5 +1,8 @@
-<span style="float:right; font-size:0.8em; text-align:center">![Badge](https://img.shields.io/badge/Imaging%20Lunches-FF1010?style=for-the-badge)<br>24 September 2025</span>
+
 <img src="icons/logo-center-for-imaging.png" width="120"/>
+
+
+![Badge](https://img.shields.io/badge/24_September_2025-Imaging_Lunches-FF1010?style=for-the-badge)
 <img src="icons/red-line.svg" width="100%" height="2" alt="red divider">
 
 
